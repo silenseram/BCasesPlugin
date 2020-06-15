@@ -1,0 +1,6 @@
+name: BCasesPlugin
+version: @version@
+main: com.writer.bcasesplugin.BCasesPlugin
+prefix: WriterCases
+load: STARTUP
+authors: [writer]
